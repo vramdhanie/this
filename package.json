@@ -1,0 +1,15 @@
+{
+  "name": "this_keyword",
+  "version": "0.0.1",
+  "description": "Deep understanding of \"this\" in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --end"
+  },
+  "keywords": [
+    "this",
+    "JavaScript"
+  ],
+  "author": "Vincent Ramdhanie",
+  "license": "ISC"
+}
